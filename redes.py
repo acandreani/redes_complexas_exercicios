@@ -1,7 +1,4 @@
-
-
-
-
+# -*- coding: utf-8 -*-
 def print_madj(m):
 
 	print("     "+", ".join(list(map(str,range(len(m))))))
